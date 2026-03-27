@@ -68,7 +68,11 @@ Estimated impact:
 - Cost reduction analysis
 
 ---
+## Visualization
 
+Route comparison between baseline and optimized solution:
+
+![Route Optimization](routes.png)
 ## Author
 Emmanuel Beristain Guzmán
 
