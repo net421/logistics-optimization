@@ -71,3 +71,4 @@ Estimated impact:
 
 ## Author
 Emmanuel Beristain Guzmán
+update: improve README with results and business impact
