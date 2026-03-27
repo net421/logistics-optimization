@@ -71,8 +71,8 @@ Estimated impact:
 ## Visualization
 
 Multi-vehicle routing with depot and route allocation:
-
 ![Multi Vehicle Routing](routes_multi_vehicle.png)
+
 ## Author
 Emmanuel Beristain Guzmán
 
