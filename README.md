@@ -70,9 +70,9 @@ Estimated impact:
 ---
 ## Visualization
 
-Route comparison between baseline and optimized solution:
+Multi-vehicle routing with depot and route allocation:
 
-![Route Optimization](routes_clean.png)
+![Multi Vehicle Routing](routes_multi_vehicle.png)
 ## Author
 Emmanuel Beristain Guzmán
 
