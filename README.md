@@ -72,7 +72,7 @@ Estimated impact:
 
 Route comparison between baseline and optimized solution:
 
-![Route Optimization](routes.png)
+![Route Optimization](routes_clean.png)
 ## Author
 Emmanuel Beristain Guzmán
 
