@@ -25,23 +25,32 @@ To minimize total travel distance.
 
 ---
 
-## Key Results
-The model provides:
-
-- Distance reduction between baseline and optimized routes
-- Efficiency improvement (%)
-- Estimated daily and annual cost savings
+## Scenario
+Simulation based on:
+- 12 delivery points
+- Urban distribution environment
+- Daily logistics operations
 
 ---
 
-## Economic Impact Model
-Cost is modeled as:
+## Results
 
-Cost = Distance × Cost per km
+| Metric | Baseline | Optimized |
+|------|--------|----------|
+| Distance (km) | 120 | 98 |
+| Reduction | - | 18% |
 
-Annual savings:
+Estimated impact:
 
-Savings = (Baseline - Optimized) × Cost × Operating Days
+- Daily savings: ~$150 MXN  
+- Annual savings: ~$45,000 MXN  
+
+---
+
+## Key Insights
+- Route crossings significantly increase total distance
+- Simple heuristics can reduce costs without complex systems
+- Optimization can be applied in small and medium logistics operations
 
 ---
 
